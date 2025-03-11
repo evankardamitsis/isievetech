@@ -54,7 +54,7 @@ const Footer = () => {
                         <h3 className="text-lg font-semibold">Connect With Us</h3>
                         <div className="space-y-4">
                             <div className="flex justify-center md:justify-end space-x-4">
-                                <a href="https://linkedin.com/company/isievetech"
+                                <a href="https://www.linkedin.com/company/isievetech"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="text-neutral-300 hover:text-white transition-colors">
